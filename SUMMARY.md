@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [Refiner](README.md)
 * [Run BRP node](run-brp-node.md)
